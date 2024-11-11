@@ -5,7 +5,7 @@
 
 This repository contains the official reference implementation of the [Kyber](https://www.pq-crystals.org/kyber/) key encapsulation mechanism, 
 and an optimized implementation for x86 CPUs supporting the AVX2 instruction set. 
-Kyber has been estabblished as key encapsulation mechanism standard in [NIST-FIPS 203](https://csrc.nist.gov/pubs/fips/203/final).
+Kyber has been established as key encapsulation mechanism standard in [NIST-FIPS 203](https://csrc.nist.gov/pubs/fips/203/final).
 
 
 ## Build instructions
